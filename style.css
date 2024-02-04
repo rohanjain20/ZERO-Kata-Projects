@@ -1,0 +1,24 @@
+.main_container{
+    height: 350px;
+    width: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: pink;
+    border-radius: 5px;
+}
+input{
+    font-family: 'Comic Neue', cursive;
+    border: 2px solid white;
+    border-radius: 5px;
+    background-color: lightblue;
+    width: 100px;
+    padding: 0;
+    margin: 0;
+    height: 100px;
+    margin: 5px;
+    font-size: 80px;
+    text-align: center;
+    caret-color: transparent;
+    cursor: pointer;
+}
